@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/react-movie-app/static/css/main.879cef25.css",
+    "main.js": "/react-movie-app/static/js/main.8a0725da.js",
+    "static/js/787.7c42db31.chunk.js": "/react-movie-app/static/js/787.7c42db31.chunk.js",
+    "static/media/movie-svgrepo-com.svg": "/react-movie-app/static/media/movie-svgrepo-com.4d18309a8e95bbe2bb6b8d2b63319f9f.svg",
+    "index.html": "/react-movie-app/index.html",
+    "main.879cef25.css.map": "/react-movie-app/static/css/main.879cef25.css.map",
+    "main.8a0725da.js.map": "/react-movie-app/static/js/main.8a0725da.js.map",
+    "787.7c42db31.chunk.js.map": "/react-movie-app/static/js/787.7c42db31.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.879cef25.css",
+    "static/js/main.8a0725da.js"
+  ]
+}
